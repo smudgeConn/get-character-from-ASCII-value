@@ -1,0 +1,5 @@
+function getChar(c){
+//   input: INT
+//   output: STR
+  return String.fromCharCode(c)
+}
