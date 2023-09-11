@@ -1,0 +1,4 @@
+def get_char(c):
+    #input: INT
+    #output: STR
+    return chr(c)
